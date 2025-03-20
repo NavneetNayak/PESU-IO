@@ -7,3 +7,5 @@ Test to see which machine learning model that is able to accurately classify new
 3. Fit the data into many different types of models like Logistic Regression, K-NN, Naive Bayes, Decision Trees, SVC, Random Forest Classifier.
 
 Found SVC to be giving the best results at 99.48% accuracy on the test data. 
+
+Code for the first three assignments is can also be found in this repo!
